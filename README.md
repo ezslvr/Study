@@ -9,3 +9,4 @@
 190807 SWEA 1204 최빈수 구하기 Simulation <br/>
 190807 SWEA 1954 달팽이 숫자 Simulation <br/>
 190807 SWEA 1961 숫자 배열 회전 Simulation <br/>
+190808 SWEA 1974 스도쿠 검증 Simulation <br/>
