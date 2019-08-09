@@ -12,3 +12,4 @@
 190808 SWEA 1974 스도쿠 검증 Simulation <br/>
 190808 SWEA 1859 백만 장자 프로젝트 Simulation <br/>
 190808 SWEA 1926 간단한 369게임 Simulation <br/>
+190808 SWEA 1983 조교의 성적 매기기 Simulation <br/>
