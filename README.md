@@ -15,3 +15,4 @@
 190809 SWEA 1983 조교의 성적 매기기 Simulation <br/>
 190809 SWEA 1206 View Simulation <br/>
 190809 SWEA 1208 Flatten Simulation <br/>
+190812 SWEA 2805 농작물_수확하기 BFS <br/>
