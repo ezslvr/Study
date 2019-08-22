@@ -19,4 +19,7 @@
 190812 SWEA 2817 부분 수열의 합 Combination <br/>
 190812 BOJ 17406 배열 돌리기4 Simulation, Permutation <br/>
 190813 BOJ 16928 봄버맨 Simulation <br/>
-190820 BOJ B17141 연구소2 Simulation BFS Combination <br/>
+190820 BOJ 17141 연구소2 Simulation BFS Combination <br/>
+190821 BOJ 17144 미세먼지 안녕! Simulation BFS<br/>
+190822 BOJ 2573 빙산 DFS BFS<br/>
+190822 BOJ 2468 안전 영역 DFS BFS<br/>
